@@ -1,0 +1,72 @@
+[
+{
+    "data": {
+        "count_total": 448,
+        "count_unread": 10,
+        "size_total": 79586,
+        "size_unread": 25631
+    },
+    "id": 0,
+    "name": "收件箱"
+},
+{
+    "data": {
+        "count_total": 267,
+        "count_unread": 3,
+        "size_total": 60625,
+        "size_unread": 40242
+    },
+    "id": 1,
+    "name": "草稿箱"
+},
+{
+    "data": {
+        "count_total": 305,
+        "count_unread": 4,
+        "size_total": 94224,
+        "size_unread": 33336
+    },
+    "id": 2,
+    "name": "已发送"
+},
+{
+    "data": {
+        "count_total": 352,
+        "count_unread": 12,
+        "size_total": 75800,
+        "size_unread": 33949
+    },
+    "id": 3,
+    "name": "已删除"
+},
+{
+    "data": {
+        "count_total": 399,
+        "count_unread": 1,
+        "size_total": 68907,
+        "size_unread": 46446
+    },
+    "id": 4,
+    "name": "垃圾邮件"
+},
+{
+    "data": {
+        "count_total": 419,
+        "count_unread": 1234,
+        "size_total": 90893,
+        "size_unread": 21058
+    },
+    "id": 5,
+    "name": "自定义文件夹1"
+},
+{
+    "data": {
+        "count_total": 455,
+        "count_unread": 123,
+        "size_total": 74600,
+        "size_unread": 233
+    },
+    "id": 6,
+    "name": "自定义文件夹2"
+}
+]

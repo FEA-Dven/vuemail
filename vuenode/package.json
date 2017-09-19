@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.3.1",
+    "connect-multiparty": "^1.0.4"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.2"
+  }
+}
